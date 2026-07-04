@@ -109,6 +109,8 @@ reflections precisely and leave that final verification to the tester.
 
 Use only against systems you are explicitly authorised to test.
 
+© 2026 Suhel Kathi. Released under the MIT License.
+
 ## License
 
 MIT
